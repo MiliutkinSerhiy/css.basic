@@ -6,8 +6,6 @@
   display: flex;
   justify-content: center;
 }
-.nav {
-}
 .body {
   font-family: "Playfair Displey" serif;
   font-size: 14px;
@@ -22,8 +20,6 @@
 }
 .navigation {
   padding: 71px 0px 92px;
-}
-.nav-list-item {
 }
 .nav-list-link {
   color: #7d7d7d;
